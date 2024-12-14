@@ -1,10 +1,10 @@
 ![image](https://github.com/user-attachments/assets/33bf9879-926e-4962-bb15-225aa537c37e)
 
-## Description
+## 📌 Description
 
 minishell is a project from the 42 school curriculum that involves creating a basic shell program in C. The goal is to understand how shells work, including parsing commands, executing programs, and handling input/output redirection.
 
-## Features
+## ✨ Features
 
 - Prompt: Minishell displays a prompt to indicate it is ready to accept commands.
 - History: The shell maintains a history of previously executed commands.
@@ -24,7 +24,7 @@ minishell is a project from the 42 school curriculum that involves creating a ba
     - env: Prints the environment variables.
     - exit: Exits the shell.
  
-## Usage
+## 🚀 Usage
 
 Clone the repository:
 ```bash
